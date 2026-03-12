@@ -1,4 +1,4 @@
-$path = "ENTER YOUR FILENAME HERE"
+$path = "C:\Users\Quincy\Desktop"
 
 $items = Get-ChildItem -Path $path -Recurse -Force
 
